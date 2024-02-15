@@ -1,5 +1,9 @@
-Like Dragon Axe's <strong>"Chop chop!"</strong>, your character will say dialogue when using any special attack! </h4>
+<h3>Spec Dialogue Plugin</h3>
+<hr>
 
-You can set the dialogue and the spec weapon to whatever you want.
+Set overhead dialogue when using any special attack!
+
+
+
 
 
