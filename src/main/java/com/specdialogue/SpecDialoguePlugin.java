@@ -19,7 +19,7 @@ import java.util.HashMap;
 @Slf4j
 @PluginDescriptor(
 	name = "Spec Dialogue",
-	description = "Add overhead dialogue text to any special attack!",
+	description = "Add overhead dialogue for any special attack!",
 	tags = "spec, special, special attack, fun"
 )
 public class SpecDialoguePlugin extends Plugin
@@ -37,7 +37,7 @@ public class SpecDialoguePlugin extends Plugin
 	private ClientThread clientThread;
 
 
-	private HashMap<String, String> weaponsToDialoguesMap = new HashMap<String,String>(); //again, map keys lowercase
+	private HashMap<String, String> weaponsToDialoguesMap = new HashMap<String,String>(); //map keys lowercase
 
 	private ArrayList<String> invalidWeaps = new ArrayList<>();
 	private int specPercent;
@@ -56,13 +56,6 @@ public class SpecDialoguePlugin extends Plugin
 	protected void shutDown() throws Exception
 	{
 		log.info("Spec Dialogue plugin stopped.");
-	}
-
-	@Subscribe
-	public void  onGameStateChanged(GameStateChanged event){
-		if(event.getGameState() == GameState.LOGGED_IN){
-
-		}
 	}
 
 	@Subscribe
@@ -94,8 +87,7 @@ public class SpecDialoguePlugin extends Plugin
 		this.specPercent = specPercent;
 		Item currentWeapon = getCurrentWeapon();
 
-		if(currentWeapon == null){return;}  // i hope this cannot happen... if the weapon is unequipped
-		// next tick after spec
+		if(currentWeapon == null){return;}  // i hope this cannot happen...
 
 		String currentWeaponName = itemManager.
 				getItemComposition(currentWeapon.getId()).getName();
@@ -206,3 +198,5 @@ public class SpecDialoguePlugin extends Plugin
 		invalidWeaps.add("excalibur");
 	}
 }
+
+//congrats on finding ->this<- easter egg ^_^ I hope you have a great day or night.

@@ -10,21 +10,34 @@ public interface SpecDialogueConfig extends Config {
             keyName = "weapsAndDialogue",
             name = "Weapons/Dialogue",
             description = "Enter the spec weapon name and dialogue in name,colon,dialogue" +
-                    ",semicolon format --- Dragon axe : Chop chop!;"
+                    ",semicolon format --- Dragon axe : Chop chop! ;"
 
     )
     default String weapsAndDialogue() {
-        return "Dont forget the semicolon \";\" at the end of every entry, damnit ;\n" +
+        return "The semicolon is really easy to forget lol ;\n" +
                 "\n" +
-                "Toxic Blowpipe: pew ;\n" +
+                "Armadyl Crossbow : Oh, a bird's nest. ;\n" +
                 "\n" +
-                "Dragon Dagger: Measure twice! ;\n" +
+                "Dragon Dagger : Measure twice... ;\n" +
                 "\n" +
-                "Granite Hammer : Bonk ;\n" +
+                "Dragon Claws : Meeooowwww! ; \n" +
                 "\n" +
-                "Dragon Warhammer: Bonk. ;\n" +
+                "Dragon Warhammer : Bonk. ;\n" +
                 "\n" +
-                "Granite Maul: S M A S H I N G ! ;";
+                "Dragon Warhammer (cr) : Bonk ; \n" +
+                "\n" +
+                "Granite Maul : BASHING! ;\n" +
+                "\n" +
+                "Saradomin Sword : Leodero! ;\n" +
+                "\n" +
+                "Blessed Saradomin sword : Leodero! ;\n" +
+                "\n" +
+                "Toxic Blowpipe : pew ;\n" +
+                "\n" +
+                "Zamorak Godword : Freeze! ;\n" +
+                "\n" +
+                "\n" +
+                "\n";
     }
 
 }
