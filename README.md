@@ -1,7 +1,7 @@
 <h2>Spec Dialogue Plugin</h2>
 <hr>
 
-Set overhead dialogue when using any special attack!
+Set overhead dialogue for any special attack!
 <br><br>
 
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/bonkGif.gif" height = 240px></span>
