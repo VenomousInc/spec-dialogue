@@ -24,6 +24,9 @@ You can also change the dialogue of spec weapons like Dragon Axe in the same way
 <br><br>
 Spec diagloues are cool.
 
+<hr><br>
+I yoinked a bunch of code from the Foodie Plugin and the SpecialAttackCounter plugin so... ty.
+
 
 
 
