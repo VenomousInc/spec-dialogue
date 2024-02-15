@@ -14,7 +14,7 @@ Add overhead dialogue for any special attack!
 <hr>
 
 <h3>How to use</h3>
-Add the spec weapon name and the overhead text to be said in the following format --- Weapon Name : Spec dialogue ;
+Add the spec weapon name and the overhead text to be said in the following format --- <br> Weapon Name : Spec dialogue ;
 <br><br>
 <img src="https://github.com/Oziach/spec-dialogue/blob/master/img/AddingEntries.PNG" height=300px>
 
