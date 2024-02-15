@@ -8,7 +8,7 @@ Add overhead dialogue for any special attack!
 <span >&nbsp; &nbsp; &nbsp; &nbsp;  </span>
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/measureTwiceGif.gif" height = 240px></span>
 <span >&nbsp; &nbsp; &nbsp; &nbsp; </span>
-<span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/pew.gif" height = 150px></span>
+<span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/pew.gif" height = 240px></span>
 
 
 <hr>
