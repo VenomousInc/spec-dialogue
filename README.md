@@ -5,9 +5,9 @@ Add overhead dialogue for any special attack!
 <br><br>
 
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/bonkGif.gif" height = 240px></span>
-<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
+<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/measureTwiceGif.gif" height = 240px></span>
-<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
+<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/pew.gif" height = 240px></span>
 
 
