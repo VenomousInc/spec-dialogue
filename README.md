@@ -1,4 +1,4 @@
-<h2>Spec Dialogue Plugin</h2>
+<h2>Spec Dialogues Plugin</h2>
 <hr>
 
 Add overhead dialogue for any special attack!
@@ -22,7 +22,7 @@ Add the spec weapon name and the overhead text to be said in the following forma
 
 You can also change the dialogue of spec weapons like Dragon Axe in the same way, by adding it to the list. (This won't work for any new similar weapons that get added in the future, unless the plugin is updated.)
 <br><br>
-Spec diagloues are cool.
+Spec dialogues are cool.
 
 <hr><br>
 I yoinked a bunch of code from the Foodie Plugin and the SpecialAttackCounter plugin so... ty.
