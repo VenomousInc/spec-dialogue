@@ -1,4 +1,4 @@
-<h2>Spec Dialogues Plugin</h2>
+<h2>Spec Dialogue Plugin</h2>
 <hr>
 
 Add overhead dialogue for any special attack!
