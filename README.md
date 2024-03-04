@@ -3,6 +3,7 @@
 
 Add overhead dialogue for any special attack!
 <br><br>
+[This plugin is now available on the [Plugin Hub](https://runelite.net/plugin-hub/show/spec-dialogue) ]
 
 <span><img src="https://github.com/Oziach/spec-dialogue/blob/master/img/bonk.webp" height = 240px></span>
 <span >&nbsp; &nbsp; &nbsp; &nbsp;  </span>
