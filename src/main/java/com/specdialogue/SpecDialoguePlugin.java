@@ -159,7 +159,7 @@ public class SpecDialoguePlugin extends Plugin
 		String[] wholePairs = config.weapsAndDialogue().split(";");
 		for(String wholePair : wholePairs){
 
-			String[] pair = wholePair.split(":");
+			String[] pair = wholePair.split(":", 2);
 
 			if(pair.length < 2){continue;} //if invalid pair
 
